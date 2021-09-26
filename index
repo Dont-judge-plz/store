@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="style.css" rel="stylesheet">
+    <title> Sales</title>
+</head>
+<body>
+    <div class="header">
+        <div class="logo">
+
+        </div>
+        <h1>Product name</h1>
+        <ul class="ulheader">
+            <li>Put on this page information about your product</li>
+            <li>A detailed description of your product</li>
+            <li>Tell us about the advantages and merits</li>
+            <li>Associate the page with the payment system</li>
+          </ul>
+         </div>
+        <div class="about">
+            <div class="imginfo"> 
+            </div>
+            <h2 class="lefth">About your product</h2>
+            <p class="pxsix">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis facilis fuga, illo at. Natus eos, eligendi illum rerum omnis porro ex, magni, explicabo veniam incidunt in quam sapiente ut ipsum.</p>
+          <p class="pxsix">Pariatur iure ab sunt nesciunt, quibusdam odio iste cumque itaque, ipsa vel exercitationem ullam quos aut nostrum cupiditate fuga quaerat quam animi dolores. Sequi itaque, unde perferendis nemo debitis dolor.</p>
+        </div>
+        <div class="dignity">
+            <h2>Dignity and pluses product</h2>
+            <table class="diginitytable">
+                <tr>
+                    <td><img src="../imgforproject/shape_3_29.png" class="fuck">Delectus dolorem vero quae beatae quasi dolor deserunt iste amet atque, impedit iure placeat, ullam. Reprehenderit aliquam, nemo cum velit ratione perferendis quas, maxime, quaerat porro totam, dolore minus inventore.</td>
+                    <td><img src="../imgforproject/shape_3_29.png" class="fuck">Delectus dolorem vero quae beatae quasi dolor deserunt iste amet atque, impedit iure placeat, ullam. Reprehenderit aliquam, nemo cum velit ratione perferendis quas, maxime, quaerat porro totam, dolore minus inventore.</td>
+                </tr>
+                <tr>
+                    <td><img src="../imgforproject/shape_3_29.png" class="fuck">Delectus dolorem vero quae beatae quasi dolor deserunt iste amet atque, impedit iure placeat, ullam. Reprehenderit aliquam, nemo cum velit ratione perferendis quas, maxime, quaerat porro totam, dolore minus inventore.</td>
+                    <td><img src="../imgforproject/shape_3_29.png" class="fuck">Delectus dolorem vero quae beatae quasi dolor deserunt iste amet atque, impedit iure placeat, ullam. Reprehenderit aliquam, nemo cum velit ratione perferendis quas, maxime, quaerat porro totam, dolore minus inventore.</td>
+                </tr>
+                <tr>
+                    <td><img src="../imgforproject/shape_3_29.png" class="fuck">Delectus dolorem vero quae beatae quasi dolor deserunt iste amet atque, impedit iure placeat, ullam. Reprehenderit aliquam, nemo cum velit ratione perferendis quas, maxime, quaerat porro totam, dolore minus inventore.</td>
+                    <td><img src="../imgforproject/shape_3_29.png" class="fuck">Delectus dolorem vero quae beatae quasi dolor deserunt iste amet atque, impedit iure placeat, ullam. Reprehenderit aliquam, nemo cum velit ratione perferendis quas, maxime, quaerat porro totam, dolore minus inventore.</td>
+                </tr>
+            </table>
+        </div>
+        <div class="Scrinshots">
+            <h2 class="hscrin">Scrinshots</h2>
+            <table class="scrtable">
+                <tr>
+                    <td><img src="../imgforproject/image_126.png" class="imgscr"><h3>The description for the image</h3>Pariatur iure ab sunt nesciunt, quibusdam odio iste cumque itaque, ipsa vel exercitationem ullam quos aut nostrum cupiditate fuga quaerat quam animi dolores. Sequi itaque, unde perferendis nemo debitis.</td>
+                    <td><img src="../imgforproject/image_126.png" class="imgscr"><h3>The description for the image</h3>Pariatur iure ab sunt nesciunt, quibusdam odio iste cumque itaque, ipsa vel exercitationem ullam quos aut nostrum cupiditate fuga quaerat quam animi dolores. Sequi itaque, unde perferendis nemo debitis.</td>
+                </tr>
+                <tr>
+                    <td><img src="../imgforproject/image_126.png" class="imgscr"><h3>The description for the image</h3>Pariatur iure ab sunt nesciunt, quibusdam odio iste cumque itaque, ipsa vel exercitationem ullam quos aut nostrum cupiditate fuga quaerat quam animi dolores. Sequi itaque, unde perferendis nemo debitis.</td>
+                    <td><img src="../imgforproject/image_126.png" class="imgscr"><h3>The description for the image</h3>Pariatur iure ab sunt nesciunt, quibusdam odio iste cumque itaque, ipsa vel exercitationem ullam quos aut nostrum cupiditate fuga quaerat quam animi dolores. Sequi itaque, unde perferendis nemo debitis.</td>
+                </tr>
+            </table>
+        </div>
+        <div class="revie">
+            <h2 class="hrevie">Reviews</h2>
+            <table class="revtable">
+                <tr>
+                    <td><img src="../imgforproject/userpic_176.jpg" class="revpng"><td class="hm">Porro officia cumque sint deleniti nemo facere rem vitae odit inventore cum odio, iste quia doloribus autem aperiam nulla ea neque reprehenderit. Libero doloribus, possimus officiis sapiente necessitatibus commodi consectetur?  <footer>Lourens S.</footer></td></td> 
+                    <td><img src="../imgforproject/userpic_176.jpg" class="revpng"><td class="hm">Porro officia cumque sint deleniti nemo facere rem vitae odit inventore cum odio, iste quia doloribus autem aperiam nulla ea neque reprehenderit. Libero doloribus, possimus officiis sapiente necessitatibus commodi consectetur?<footer>Lourens S.</footer></td></td>
+                </tr>
+                <tr>
+                    <td><img src="../imgforproject/userpic_176.jpg" class="revpng"><td class="hm">Porro officia cumque sint deleniti nemo facere rem vitae odit inventore cum odio, iste quia doloribus autem aperiam nulla ea neque reprehenderit. Libero doloribus, possimus officiis sapiente necessitatibus commodi consectetur?<footer>Lourens S.</footer></td></td>
+                    <td><img src="../imgforproject/userpic_176.jpg" class="revpng"><td class="hm">Porro officia cumque sint deleniti nemo facere rem vitae odit inventore cum odio, iste quia doloribus autem aperiam nulla ea neque reprehenderit. Libero doloribus, possimus officiis sapiente necessitatibus commodi consectetur?<footer>Lourens S.</footer></td></td>
+                </tr>
+            </table>
+        </div>
+        
+    
+</body>
+</html>
