@@ -1,0 +1,214 @@
+.header {
+    width: 1280px;
+    height: 323px;
+    background-image: url(../imgforproject/header_bg_3.png);
+}
+.logo {
+    width: 469px;
+    height: 214px;
+    background-color: #ffffff;
+    background-image:url(../imgforproject/shape_9_345.png);
+    margin-bottom:59x;
+    margin-top:50px;
+    margin-left:253px;
+    margin-right:50px;
+    float:right;
+}
+h1 {   
+    width: 367px;
+    height: 44px;
+    text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.3);
+    color: #ffffff;
+    font-family: "Arial MT";
+    font-size: 60px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+    text-align: left;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+    padding-top:50px;
+    padding-left:50px;
+    padding-bottom:-20px;
+    padding-right:863px;
+    position: static;
+}
+.ulheader {
+    list-style-image:url(../check_icon_346.png);
+    margin-left:50px;
+    font-family: Arial;
+    font-size: 20px;
+    line-height: 36px;
+    font-weight: 400;
+    text-shadow: 0px 1px 0px rgba(0,0,0,0.3);
+    color: #ffffff;
+    position: static;
+    padding-bottom:50px;
+}
+.imginfo {
+    width: 430px;
+    height: 245px;
+    background-color: #445161;
+    background-image:url(../video_14.png);
+    margin-bottom:59x;
+    margin-top:50px;
+    margin-left:253px;
+    margin-right:50px;
+    float:right;
+}
+.about {
+    background-image: url(../bg_342.png);
+    width: 1280px;
+    height: 323px;
+    display: inline-block;
+    font-family: Arial;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+    color: #333333;
+}
+.lefth {
+    text-align: left;
+    font-family: Arial;
+    font-size: 30px;
+    line-height: 36px;
+    font-weight: 400;
+    color: #445161;
+    margin-bottom:30px;
+    margin-top:50px;
+    margin-left:50px;
+    margin-right:50px;
+}
+.dignity {
+    width: 1280px;
+    height: 323px;
+    background-image: url(../bg_342.png);
+    display: block;
+
+}
+h2 {
+    display: block;
+    text-align: center;
+    font-family: Arial;
+    font-size: 30px;
+    line-height: 36px;
+    font-weight: 400;
+    color: #445161;
+}
+.pxsix {
+    margin-left:50px;
+}
+
+.diginitytable {
+    display: block;
+}
+.diginitytable td {
+    max-inline-size:525px;
+    display:inline-flex;
+    font-family: Arial;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+    color: #333333;
+    padding-top:6px;
+    padding-bottom:35px;
+    
+    
+}
+.fuck {
+    display:block;
+    float:left;
+    width: 32px;
+    height: 32px;
+    background-color: #445161;
+    margin-left:50px;
+    margin-right:9px;
+    margin-top:20px;
+}
+.Scrinshots {
+    width: 1280px;
+    height: 323px;
+    background-image: url(../bg_342.png);
+    display: block;
+
+}
+.hscrin {
+    margin-top:160px;
+    display: block;
+    text-align: center;
+    font-family: Arial;
+    font-size: 30px;
+    line-height: 36px;
+    font-weight: 400;
+    color: #445161;
+}
+h3 {
+    font-family: Arial;
+    font-size: 24px;
+    line-height: 30px;
+    font-weight: 400;
+    color: #445161;
+}
+.imgscr {
+    display:block;
+    float:left;
+    width: 200px;
+    height: 150px;
+    background-color: #445161;
+    margin-left:50px;
+    margin-right:9px;
+    margin-top:20px;
+}
+.scrtable {
+    font-family: Arial;
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 400;
+    color: #333333;
+}
+.hrevie {
+    margin-top:160px;
+    display: block;
+    text-align: center;
+    font-family: Arial;
+    font-size: 30px;
+    line-height: 36px;
+    font-weight: 400;
+    color: #445161;
+
+}
+footer{
+    font-family: Arial;
+    font-size: 14px;
+    line-height: 18px;
+    font-weight: 400;
+    color: #989898;
+}
+.hm {
+    padding-left:20px;
+    background-image:url(../imgforproject/bg_review_195.jpg);
+    background-size:483px 121px;
+    
+}
+.revie {
+    width: 1280px;
+    height: 323px;
+    background-image: url(../bg_342.png);
+    display: block;
+}
+
+.revpng {
+    display:inline-block; 
+    width: 75px;
+    height: 75px;
+    background-color: #445161;
+    margin-right:16px;
+    margin-left:50px;
+
+}
+.revtable {
+    background-size:483px 121px;
+    float: left;
+}
